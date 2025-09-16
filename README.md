@@ -19,12 +19,16 @@ The **Document Chatbot** is a Python-based application designed to facilitate in
    cd Document_Chatbot
 
    
-Set up a virtual environment:
+## Set up a virtual environment:
+
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
-Install the required dependencies:
+## Install the required dependencies:
+
+
 pip install -r requirements.txt
 
 
@@ -33,7 +37,8 @@ Run the application:
 python app.py
 
 
-Requirements
+## Requirements
+
 Python 3.7+
 
 Required Python libraries listed in requirements.txt
